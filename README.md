@@ -1,6 +1,11 @@
 
 ## 
+
+TODO: item toplama düzeltilecek. (Toplamıyor.)
+
+
 Resimde kendi adım ve sağ üstteki server bilgileri bölümünü beyaz ile kestim.
+
 ![alt text](result.jpg)
 
 
