@@ -1,0 +1,7 @@
+__pycache__
+/.vscode
+/image
+/window_capture/__pycache__
+negative.txt
+positive.txt
+positive.vec
